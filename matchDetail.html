@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <title>English Premier League</title>
+  <meta name="description" content="English Premier League"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" defer>
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="images/icon.png">
+  <!-- mendaftarkan web app manifest -->
+  <meta name="theme-color" content="#9c27b0"/>
+  <!-- apple touch icon -->
+  <link rel="apple-touch-icon" href="images/icon.png">
+</head>
+<body>
+
+  <header>
+    <nav-detail></nav-detail>
+  </header>
+
+  <main>
+    <section class="container padding-style">
+      <div class="row">
+        <div class="col l12" id="body-content">
+          <!-- content -->
+        </div>
+      </div>
+      <!-- save btn -->
+      <div class="fixed-action-btn">
+        <a class="btn-floating btn-large pulse cyan right margin-3" id="save">
+          <i class="material-icons">save</i>
+        </a>
+      </div>
+      <!-- delete btn -->
+      <div class="fixed-action-btn">
+        <a class="btn-floating btn-large red lighten-2 right margin-3" id="delete">
+          <i class="material-icons">delete</i>
+        </a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <foot-bar></foot-bar>
+  </footer>
+
+  <script src="./js/idb.js"></script>
+  <script src="./matchDetail.js"></script>
+  <noscript>
+    <p>Ups, Javascript is not available or javascript is being turned off!</p>
+  </noscript>
+</body>
+</html>

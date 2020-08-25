@@ -1,0 +1,104 @@
+body {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+ }
+
+main {
+	flex: 1 0 auto;
+}
+
+.img-style {
+	cursor: default;
+	margin-top: 8px;
+}
+
+section .responsive-img {
+	width: 100%;
+	max-height: 600px;
+}
+
+.hover-style:hover {
+	text-decoration: underline;
+}
+
+.hover-style-2:hover {
+	color: #a954b8!important;
+	text-decoration: none;
+}
+
+.hover-style-3:hover {
+	color: #66bb6a!important;
+	text-decoration: none;
+}
+
+.hover-style-4:hover {
+	color: #ffc107!important;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.hover-style-5:hover {
+	color: #f44336!important;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.padding-style {
+	padding: 5% 0;
+}
+
+.padding-style-2 {
+	padding: 10px 0;
+}
+
+.padding-style-3 {
+	padding: 20px 0 0 0;
+}
+
+.card-style {
+	padding: 40px;
+}
+
+.margin {
+	margin-bottom: 20px;
+}
+
+article {
+	margin: 15px 0;
+}
+
+.sponsors {
+	max-width: 20px;
+}
+
+.margin-sponsors {
+	margin: 5px 0;
+}
+
+.margin-style-2 {
+	margin: 10px 0;
+}
+
+.margin-2 {
+	margin: 10px;
+}
+
+.margin-3 {
+	margin: 15px 10px 0 0;
+}
+
+.margin-4 {
+	margin: 0 5px;
+}
+
+.cursor {
+	cursor: default!important;
+}
+/*1920 X 1280*/
+
+/* utcData */
+.bgTime {
+	padding: 10px;
+	border-radius: 20px;
+}

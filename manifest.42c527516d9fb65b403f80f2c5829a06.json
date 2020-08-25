@@ -1,0 +1,49 @@
+{
+  "icons": [
+    {
+      "src": "icon_1024x1024.0823aab5af2c6959f6b6382e491bf345.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "images/icons/ios/icon_512x512.ae0d3ce9f649547ba237cc7535bf9e2c.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/ios/icon_384x384.b3c94fb52ec5676599f25646785ba5f9.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/ios/icon_256x256.e580adf2e92834a173bbe5f1fd376ea5.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/ios/icon_192x192.8a01c4d595a2465d403a23533d1c63ba.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/ios/icon_128x128.9a3c559aaf66bfcbd74b8437b9cbad2a.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/ios/icon_96x96.2dc5aac5b7f433712828466e5fad7159.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "English Premier League",
+  "short_name": "EPL",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Application PWA EPL",
+  "background_color": "#ab47bc",
+  "theme_color": "#9c27b0",
+  "gcm_sender_id": "1073207088783"
+}
